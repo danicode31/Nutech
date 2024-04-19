@@ -1,4 +1,5 @@
 import sqlite3
+
 def conectar():
     ''' implementacion para la conexion de la bbdd '''
     try:
